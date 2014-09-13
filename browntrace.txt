@@ -1,0 +1,23 @@
+Training forward model
+# Train Sentences = 47207 (# words = 1079440) 
+# Test Sentences = 5245 (# words = 93530)
+Training...
+Perplexity = 93.51927720192262
+Word Perplexity = 113.35954408376686
+Testing...
+Perplexity = 231.30243689356243
+Word Perplexity = 310.66735613437913
+Training backward model
+Training...
+Perplexity = 93.50913083897301
+Word Perplexity = 110.78289581654053
+Testing...
+Perplexity = 231.20551767464033
+Word Perplexity = 299.68570342320015
+Testing bidirectional model
+Training...
+Perplexity = 4991.446130793693
+Word Perplexity = 61.46886647115352
+Testing...
+Perplexity = 2892.345619838344
+Word Perplexity = 167.48711091425574
