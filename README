@@ -1,0 +1,3 @@
+The BidirectionalModel.java is the main source.
+Run it with the arguments say pos/atis 0.1 to get tarining and testing results
+for Forward, Backward and Bidirectional Models
